@@ -1,14 +1,12 @@
 <div align="center">
-  <h2> Olá! Me chamo Guilherme Orsolon, dê uma olhada no meu Github!</h2>
+  <h2> Olá! Me chamo Guilherme Orsolon</h2>
 </div>
 <div align="center">
   <a href="https://github.com/GuiOrsolon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiOrsolon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiOrsolon&layout=compact&langs_count=10&theme=dark"/>
 </div>
-  
-  ##
- 
+
 <div align="center"> 
   <!--<a href="https://www.youtube.com/channel/UCkSelz1jNc2UqjlGaaqVKjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://instagram.com/gui_orsolon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
